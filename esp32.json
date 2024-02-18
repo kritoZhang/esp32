@@ -14,7 +14,7 @@
                     "architecture": "esp32",
                     "version": "2.0.11",
                     "category": "ESP32",
-                    "url": "D:/download/Compressed/esp32-2.0.11.zip",
+                    "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/70127218/eedab933-7d09-4106-a94f-90ad0032bab2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240218%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240218T140241Z&X-Amz-Expires=300&X-Amz-Signature=3f4d152b7909f33e7617a9ed4f3417d9fd32cbcdc24f8c81c7ae95e40c5d8cb3&X-Amz-SignedHeaders=host&actor_id=55885586&key_id=0&repo_id=70127218&response-content-disposition=attachment%3B%20filename%3Desp32-2.0.11.zip&response-content-type=application%2Foctet-stream",
                     "archiveFileName": "esp32-2.0.11.zip",
                     "checksum": "SHA-256:d15386308dc72f94816ce80b5508af999f2fd0d88eb5e1ffba48316ab0b9c5d6",
                     "size": "250401265",
